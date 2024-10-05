@@ -1,0 +1,140 @@
+{
+  "authors": {
+    "-MiBsfuTafbEQ7eAULxV": {
+      "email": "ta@ta.com",
+      "favorite": true,
+      "firebaseKey": "-MiBsfuTafbEQ7eAULxV",
+      "first_name": "Tomi",
+      "last_name": "Adeyemi",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    },
+    "-MiBt86VzkC-EGmJnxjm": {
+      "email": "ba@obama.com",
+      "favorite": true,
+      "firebaseKey": "-MiBt86VzkC-EGmJnxjm",
+      "first_name": "Barack",
+      "last_name": "Obama",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    },
+    "-MiBtwf1BwN9pGavQeR3": {
+      "email": "hz@zinn.com",
+      "favorite": false,
+      "firebaseKey": "-MiBtwf1BwN9pGavQeR3",
+      "first_name": "Howard",
+      "last_name": "Zinn",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    },
+    "-MiBulenBnY8by9Xn7q1": {
+      "email": "cw@whithead.com",
+      "favorite": false,
+      "firebaseKey": "-MiBulenBnY8by9Xn7q1",
+      "first_name": "Colson",
+      "last_name": "Whitehead",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    },
+    "-MiBv9_aOEJQWoobjz_U": {
+      "email": "mk@kendall.com",
+      "favorite": true,
+      "firebaseKey": "-MiBv9_aOEJQWoobjz_U",
+      "first_name": "Mikki",
+      "last_name": "Kendall",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    },
+    "-MiBvQiWr6XNwNa1i3-0": {
+      "email": "lm@lm.com",
+      "favorite": true,
+      "firebaseKey": "-MiBvQiWr6XNwNa1i3-0",
+      "first_name": "L.L",
+      "last_name": "McKinney",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    },
+    "-O5LnpbGtarfAlbxVARd": {
+      "email": "at@thomas.com",
+      "favorite": "on",
+      "firebaseKey": "-O5LnpbGtarfAlbxVARd",
+      "first_name": "Angie",
+      "last_name": "Thomas",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    },
+    "-O6CNn9cj2eN97iP_Fmj": {
+      "email": "maxjones129@gmail.com",
+      "favorite": "on",
+      "firebaseKey": "-O6CNn9cj2eN97iP_Fmj",
+      "first_name": "Barack",
+      "last_name": "Obama",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    }
+  },
+  "books": {
+    "-MiBsBKGWFEU-yluJkL-": {
+      "author_id": "-MiBt86VzkC-EGmJnxjm",
+      "description": "Obanma",
+      "firebaseKey": "-MiBsBKGWFEU-yluJkL-",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91+NBrXG-PL.jpg",
+      "price": "25.99",
+      "sale": false,
+      "title": "A Promised Land!",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    },
+    "-MiBsknNSQ6aBG1-2lQS": {
+      "author_id": "-MiBsfuTafbEQ7eAULxV",
+      "description": "",
+      "firebaseKey": "-MiBsknNSQ6aBG1-2lQS",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/A1agLFsWkOL.jpg",
+      "price": "12.99",
+      "sale": true,
+      "title": "Children of Blood and Bone",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    },
+    "-MiBuqoYjFwbXyA8oiiw": {
+      "author_id": "-MiBulenBnY8by9Xn7q1",
+      "description": "",
+      "firebaseKey": "-MiBuqoYjFwbXyA8oiiw",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/A1Cu4ywUeyL.jpg",
+      "price": "25.00",
+      "sale": true,
+      "title": "The Underground Railroad",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    },
+    "-MiBvEFJTI3FmTzDu_3V": {
+      "author_id": "-MiBv9_aOEJQWoobjz_U",
+      "description": "",
+      "firebaseKey": "-MiBvEFJTI3FmTzDu_3V",
+      "image": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale/jackets/9781526622402.jpg",
+      "price": "12.99",
+      "sale": true,
+      "title": "Hood Feminism",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    },
+    "-MiBvW8ME_DvO2GzwQ8D": {
+      "author_id": "-MiBvQiWr6XNwNa1i3-0",
+      "description": "",
+      "firebaseKey": "-MiBvW8ME_DvO2GzwQ8D",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Uf1dTjfQL.jpg",
+      "price": "15.00",
+      "sale": false,
+      "title": "A Blade So Black",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    },
+    "-MiBwAF5wOY00AYJm7cR": {
+      "author_id": "-MiBw4tCvNZd23yTVDQw",
+      "description": "",
+      "firebaseKey": "-MiBwAF5wOY00AYJm7cR",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61GSqXVhhKL.jpg",
+      "price": "12.00",
+      "sale": false,
+      "title": "The Fire Next Time",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    },
+    "-O8ErrGjNpg2M2aHPHAA": {
+      "author_id": "-O6CNn9cj2eN97iP_Fmj",
+      "description": "Test",
+      "firebaseKey": "-O8ErrGjNpg2M2aHPHAA",
+      "image": "https://static.wikia.nocookie.net/characterprofile/images/4/4b/Kakashi.png",
+      "price": "1",
+      "sale": false,
+      "title": "Test",
+      "uid": "6G5fT7YliQRFgmBOFKNvllO5gHa2"
+    }
+  }
+}
