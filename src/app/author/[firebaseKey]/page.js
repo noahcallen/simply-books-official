@@ -3,29 +3,40 @@
 import React, { useEffect, useState } from 'react';
 import { viewAuthorDetails } from '@/api/mergedData';
 import PropTypes from 'prop-types';
+import { getAuthorBooks } from '../../../api/authorData';
+import BookCard from '../../../components/BookCard';
 
 export default function ViewAuthor({ params }) {
   const [authorDetails, setAuthorDetails] = useState({});
-
-  // grab firebaseKey from url
+  const [books, setBooks] = useState([]);
   const { firebaseKey } = params;
 
   // make call to API layer to get the data
   useEffect(() => {
     viewAuthorDetails(firebaseKey).then(setAuthorDetails);
+    getAuthorBooks(firebaseKey).then(setBooks);
+    console.log(getAuthorBooks(firebaseKey));
   }, [firebaseKey]);
+
+  const getSpecificBooks = () => {
+    getAuthorBooks(firebaseKey).then(setBooks);
+    console.log(getAuthorBooks);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  };
 
   return (
     <div className="mt-5 d-flex flex-wrap">
-      <div className="d-flex flex-column">{/* You can add an image of the author here if available */}</div>
       <div className="text-white ms-5 details">
         <h5>
           {authorDetails.first_name} {authorDetails.last_name}
-          {authorDetails.favorite ? ' 🤍' : ''}
         </h5>
         Author Email: <a href={`mailto:${authorDetails.email}`}>{authorDetails.email}</a>
         <hr />
-        <p>{authorDetails.biography || 'No biography available.'}</p>
+        <div className="d-flex flex-wrap">
+          {books.map((book) => (
+            <BookCard key={book.firebaseKey} bookObj={book} onUpdate={getSpecificBooks} />
+          ))}
+        </div>
       </div>
     </div>
   );
