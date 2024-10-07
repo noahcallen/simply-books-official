@@ -32,9 +32,10 @@ Simply Books is designed for book lovers who want an easy way to search, organiz
 https://www.loom.com/share/853648f37f7a422f9c57815984a0d8ac?sid=607ffab5-3a34-44c2-b0a0-7220054d608c
 
 ## Screenshots
-![Screenshot 1](./Screenshots/Screenshot 2024-10-07 at 7.11.45 PM.png)
-![Screenshot 2](./Screenshots/Screenshot 2024-10-07 at 7.12.17 PM.png)
-![Screenshot 3](./Screenshots/Screenshot 2024-10-07 at 7.12.32 PM.png)
+<img width="2560" alt="Screenshot 2024-10-07 at 7 12 32 PM" src="https://github.com/user-attachments/assets/af9d829e-4b81-4b84-9019-5357ae3e3e97">
+<img width="2560" alt="Screenshot 2024-10-07 at 7 12 17 PM" src="https://github.com/user-attachments/assets/c7ab8005-29c2-4d75-81f5-fc47608ad0be">
+<img width="2560" alt="Screenshot 2024-10-07 at 7 11 45 PM" src="https://github.com/user-attachments/assets/d6c63b6c-dd44-413a-bb35-5afb827270a6">
+
 
 
 
