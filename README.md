@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0ed3913c-b6c5-463a-ba01-3bd02c9278bb/deploy-status)](https://app.netlify.com/sites/stellar-douhua-3aacbc/deploys)
+
 # Simply Books Official
 
 A simple, user-friendly platform for book lovers to discover, search, and organize their favorite books and authors. Built using Firebase, this project offers seamless book search functionality, list management, and real-time updates.
